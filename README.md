@@ -52,8 +52,4 @@ Now just run the application on your android emulator!
 
 Design & Usage:
 
-<img src="https://github.com/hrshtt/expense-tracking-flutter-firebase/blob/main/app_gifs/expense_tracker_landing.gif" width="300" height="600"/>
-
-<img src="https://github.com/hrshtt/expense-tracking-flutter-firebase/blob/main/app_gifs/expense_tracker_unauth_pin.gif" width="300" height="600"/>
-
-<img src="https://github.com/hrshtt/expense-tracking-flutter-firebase/blob/main/app_gifs/expense_tracker_add_payment.gif" width="300" height="600"/>
+<img src="https://github.com/hrshtt/expense-tracking-flutter-firebase/blob/main/app_gifs/expense_tracker_landing.gif" width="250" height="541"/> <img src="https://github.com/hrshtt/expense-tracking-flutter-firebase/blob/main/app_gifs/expense_tracker_unauth_pin.gif" width="250" height="541"/> <img src="https://github.com/hrshtt/expense-tracking-flutter-firebase/blob/main/app_gifs/expense_tracker_add_payment.gif" width="250" height="541"/>
