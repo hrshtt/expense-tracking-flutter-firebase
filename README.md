@@ -52,4 +52,4 @@ Now just run the application on your android emulator!
 
 Design & Usage:
 
-![Landing Lock Page](https://github.com/hrshtt/expense-tracking-flutter-firebase/tree/main/app_gifs/expense_tracker_landing.gif) ![Unauthorize Pin](https://github.com/hrshtt/expense-tracking-flutter-firebase/tree/main/app_gifs/expense_tracker_unauth_pin.gif) ![Adding a payment](https://github.com/hrshtt/expense-tracking-flutter-firebase/tree/main/app_gifs/expense_tracker_add_payment.gif)
+![Landing Lock Page](https://github.com/hrshtt/expense-tracking-flutter-firebase/blob/main/app_gifs/expense_tracker_landing.gif) ![Unauthorize Pin](https://github.com/hrshtt/expense-tracking-flutter-firebase/blob/main/app_gifs/expense_tracker_unauth_pin.gif) ![Adding a payment](https://github.com/hrshtt/expense-tracking-flutter-firebase/blob/main/app_gifs/expense_tracker_add_payment.gif)
