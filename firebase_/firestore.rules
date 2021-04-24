@@ -1,0 +1,27 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /expense/{expenseID} {
+    	allow read: if request.auth != null && compareTime(resource.data.creationDateTime, duration.value(1, "d")) && request.auth.token.pinAuth==true;
+      allow write: if request.auth != null && request.auth.token.pinAuth==true;
+      allow delete, update: if false;
+      }
+    match /users/{userID} {
+    	allow read: if request.auth != null;
+    	allow write, delete, update: if false;
+    }
+    match /user-claims/{userID} {
+    	allow read: if request.auth.uid == userID;
+    	allow write, delete, update: if false;
+    }
+    match /finalAccessPins/{userID} {
+    	allow read: if false;
+      allow write: if false;
+    }
+  }
+}
+
+function compareTime(time_, offset) {
+let offsetTime = request.time-offset;
+  return time_ > offsetTime;
+}
