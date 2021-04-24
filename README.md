@@ -1,6 +1,6 @@
 # A Secure Expense Tracking Android App for Small groups
 
-Read the related [article](https://medium.com) for this Repository.
+Read the related [article](https://medium.com) (TBD) for this Repository.
 
 ## Requirements
 
@@ -52,4 +52,8 @@ Now just run the application on your android emulator!
 
 Design & Usage:
 
-![Landing Lock Page](https://github.com/hrshtt/expense-tracking-flutter-firebase/blob/main/app_gifs/expense_tracker_landing.gif) ![Unauthorize Pin](https://github.com/hrshtt/expense-tracking-flutter-firebase/blob/main/app_gifs/expense_tracker_unauth_pin.gif) ![Adding a payment](https://github.com/hrshtt/expense-tracking-flutter-firebase/blob/main/app_gifs/expense_tracker_add_payment.gif)
+<img src="https://github.com/hrshtt/expense-tracking-flutter-firebase/blob/main/app_gifs/expense_tracker_landing.gif" width="300" height="600"/>
+
+<img src="https://github.com/hrshtt/expense-tracking-flutter-firebase/blob/main/app_gifs/expense_tracker_unauth_pin.gif" width="300" height="600"/>
+
+<img src="https://github.com/hrshtt/expense-tracking-flutter-firebase/blob/main/app_gifs/expense_tracker_add_payment.gif" width="300" height="600"/>
